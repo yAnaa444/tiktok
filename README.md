@@ -1,2 +1,2 @@
 # tiktok
-Projetos que exibo no meu TikTok
+Projetos basicos e memes que exibo no meu TikTok
